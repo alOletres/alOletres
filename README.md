@@ -1,4 +1,4 @@
-## Hi I'm Alejandro Oletres Jr. You can call me AL for short a Full Stack Developer!!
+## Hi there! You can call me AL for short a Full Stack Developer!!
 
 - 🔭 I’m currently working on [Mechanical Dryer App]
 - 🌱 I’m currently learning [Docker]

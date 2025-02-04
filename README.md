@@ -1,7 +1,4 @@
-## Hi there
-**alOletres/alOletres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## Hi I'm Alejandro Oletres Jr. You can call me AL for short a Full Stack Developer!!
 
 - 🔭 I’m currently working on [Mechanical Dryer App]
 - 🌱 I’m currently learning [Docker]

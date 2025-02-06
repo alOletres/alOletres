@@ -1,4 +1,4 @@
-## Hi there! You can call me AL for short a Full Stack Developer!!
+## Hi there! I'm Al a Full Stack Developer!!
 
 - 🔭 I’m currently working on [Mechanical Dryer App]
 - 🌱 I’m currently learning [Docker]

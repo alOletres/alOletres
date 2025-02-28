@@ -1,4 +1,4 @@
-## Hi there! I'm Al a Full Stack Developer!!
+## Full Stack Developer!!
 
 - 🔭 I’m currently working on [Mechanical Dryer App]
 - 🌱 I’m currently learning [Docker]
